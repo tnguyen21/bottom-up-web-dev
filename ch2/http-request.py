@@ -5,7 +5,6 @@ https://browser.engineering/http.html
 
 import socket
 import argparse
-from pprint import pprint
 
 def request(url, port=80):
     scheme, url = url.split("://", 1)
