@@ -8,6 +8,9 @@
 -> # Tooling <-
 
 - git
+- CLI tools (\*nix flavor tools)
+- "development environments"
+- Basic Networking 
 - Python (>3.8)
 - Browser Dev Tools
 - Useful Resources
@@ -15,6 +18,38 @@
 ---
 
 -> # git: basic workflows <-
+
+---
+
+-> # CLI tools <-
+
+- cat
+- less
+- grep
+- vi(m)
+- man
+- file
+- flags
+    - -h, --help
+    - -v, --version
+
+---
+
+-> # WSL <-
+
+---
+
+-> # Basic Networking <-
+
+- very, very, _very_ high level
+- physical infrastructure
+- protocols
+
+---
+
+-> # Python <-
+
+- code in "natural language"
 
 ---
 
@@ -29,10 +64,13 @@ Read. Execute. Print. Loop.
 - Data Model
 	- "dunder" methods
 - `dir()`
+- Iterators
+    - "for-each"
+- Contexts
 
 ---
 
--> # Python: Contexts <-
+-> # Python: Env Management <-
 
 ---
 
