@@ -87,3 +87,17 @@ Read. Execute. Print. Loop.
 
 -> # MDN Docs <-
  
+https://developer.mozilla.org/en-US/
+
+---
+
+-> # Misc Resource <-
+
+awesome frontend dev blog
+https://www.joshwcomeau.com/
+
+misc css tricks for cool effects
+https://css-tricks.com/
+
+intermedia/advanced blogs + intro courses
+https://web.dev/
