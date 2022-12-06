@@ -11,7 +11,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    s.connect((args.host, args.port))
+    s.connect((args.host, int(args.port)))
     
     s.sendall(b"Hello, world") # note, this is in bytes!
     data = s.recv(1024)

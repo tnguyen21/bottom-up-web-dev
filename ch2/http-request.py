@@ -58,4 +58,4 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    load(args.url, args.port)
+    load(args.url, int(args.port))
